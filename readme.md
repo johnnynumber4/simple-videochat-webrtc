@@ -10,3 +10,5 @@
 - For development run watchify - npm run watch  
 
 - Open localhost in two browser tabs.
+
+- To Do: find out why it isn't working on netlify...
